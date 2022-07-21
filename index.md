@@ -1,6 +1,10 @@
-**Convergence**[^1]
+# **Convergence**[^1]
 
-_“TLDR; A curious mixture of minds, likely only possible due to modern communications systems, appears to be converging at this festival. The various flavors of intellect on display seem ripe for the synthesis of novel frames by which to view the complex nature of challenges facing the 21st century._[^2]_“ - Feb. 5th 2022_
+> TLDR; A curious mixture of minds, likely only possible due to modern
+> communications systems, appears to be converging at this festival. The
+> various flavors of intellect on display seem ripe for the synthesis of
+> novel frames by which to view the complex nature of challenges facing
+> the 21st century.[^2] Feb. 5th 2022
 
    When automated disinformation began ten years ago in the U.S., as a society, we lacked the shared experiences to inform the language necessary to adequately communicate the n-dimensional consequences made possible by the ever advancing evolution of networking technologies on social discourse. We were already 10 years into a now antiquated model of narrative control that, at the time, seemed absurd to articulate any aspect of. By then we were already 25 years into the societal evolution of “solving for short-term profit above all else”, supercharging an imbalance of influence which laid the foundation for the failure of institutions to properly administer society for its long-term continuity.
 
@@ -30,12 +34,9 @@ It took, at least, tens of millions to bring you all to this point. No one is co
 
  
 
-Anon, the question you should ask yourself is, **do u fuck?**
+Anon, the question you should ask yourself now is, 
+# **do u fuck?**
 
- 
-
-
-<!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^1]:
