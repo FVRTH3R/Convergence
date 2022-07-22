@@ -1,5 +1,5 @@
 
 include:
   - README.md
+remote_theme: poole/lanyon
 
-theme: jekyll-theme-slate
