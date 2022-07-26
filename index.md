@@ -1,10 +1,8 @@
-
 <h1>
 <center>
    <b>Convergence</b>
 </center>
 </h1>
-
 
 > TLDR; A curious mixture of minds, likely only possible due to modern
 > communications systems, appears to be converging at this festival. The
