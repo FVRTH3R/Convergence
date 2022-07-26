@@ -1,6 +1,8 @@
 
 
-<center><h1><b>Convergence</h1></b></center>
+<center><h1><b> Convergence</h1></b></center>
+
+
 
 > TLDR; A curious mixture of minds, likely only possible due to modern
 > communications systems, appears to be converging at this festival. The
@@ -22,7 +24,7 @@
 
    At their core, our conflicts are resource conflicts. I imagine the audience reading this doesn’t need a primer on projected water shortages, crop failures due to temperature variation, the reduction of oxygen holding capacity of water in higher temperatures, the lack of insects to turn and fertilize the soil, peaking of phosphorous production in the next decade, mass migrations from coasts amid a society primed by two previous decades of tribal and grievance identity amplification, or the three to twenty-two other things each reader is a little surprised to not see in the list. Given current projections show a convergence of resource constraints, it is only reasonable to assume a convergence of conflicts.
 
-<center><h2><b>But there is hope.</h2></b></center>
+But there is hope.
 
    Since many of you have dived into prediction markets and threatcasting, you have inadvertently acquired some of the skills of intelligence analysts. Bayesian analysis? Updating your priors? Reporting of your conclusions with confidence intervals and assumptions clearly stated? Anonymous critiquing of each other’s work? Your refusal to engage in emotional appeals and willingness to acknowledge when you're wrong is just the serendipitous cherry on top. 
 
@@ -30,14 +32,14 @@
 
    We are one of the few examples of cooperation amongst competing ideologies. In a world struggling to cope with the onslaught of information engineered to amplify our tribal tendencies, the preciousness and power of this gift cannot be understated. Given that collectively you have technical talent, institutional connections, a shared interest in influence techniques, and a healthy fear of grifters; you are the hope you have been waiting for. You are the seeds of the Second Renaissance. 
 
-<center><h3><i>waits for laughter to subside</h3></i></center>
+*waits for laughter to subside*
 
-   It took, at least, tens of millions to bring you all to this point. No one is coming because all of you are the investment. You are the people in the past who chose to adopt the prototype behaviors and cognitive frameworks necessary to bootstrap the activation energy needed to make reality the miracles tucked away in research papers and lab benches around the world. You exist in the corner of the world with the resources and stability to make it happen. There is no main character in this story, no chosen few, only those who choose. 
+It took, at least, tens of millions to bring you all to this point. No one is coming because all of you are the investment. You are the people in the past who chose to adopt the prototype behaviors and cognitive frameworks necessary to bootstrap the activation energy needed to make reality the miracles tucked away in research papers and lab benches around the world. You exist in the corner of the world with the resources and stability to make it happen. There is no main character in this story, no chosen few, only those who choose. 
 
  
 
 Anon, the question you should ask yourself now is, 
-<center><h1><b>do u fuck?</h1></b></center>
+# **do u fuck?**
 
 
 
