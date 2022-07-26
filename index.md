@@ -38,7 +38,6 @@ At their core, our conflicts are resource conflicts. I imagine the audience read
 </center>
 </h3>
 
-\
 Since many of you have dived into prediction markets and threatcasting, you have inadvertently acquired some of the skills of intelligence analysts. Bayesian analysis? Updating your priors? Reporting of your conclusions with confidence intervals and assumptions clearly stated? Anonymous critiquing of each other’s work? Your refusal to engage in emotional appeals and willingness to acknowledge when you're wrong is just the serendipitous cherry on top.
 
 \
@@ -49,7 +48,6 @@ We are one of the few examples of cooperation amongst competing ideologies. In a
 
 *waits for laughter to subside*
 
-\
 It took, at least, tens of millions to bring you all to this point. No one is coming because all of you are the investment. You are the people in the past who chose to adopt the prototype behaviors and cognitive frameworks necessary to bootstrap the activation energy needed to make reality the miracles tucked away in research papers and lab benches around the world. You exist in the corner of the world with the resources and stability to make it happen. There is no main character in this story, no chosen few, only those who choose. 
 
 \
