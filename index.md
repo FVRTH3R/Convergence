@@ -1,7 +1,9 @@
 
-
-<center><h1><b> Convergence</h1></b></center>
-
+<h1>
+<center>
+   <b>Convergence</b>
+</center>
+</h1>
 
 
 > TLDR; A curious mixture of minds, likely only possible due to modern
