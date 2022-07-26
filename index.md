@@ -1,12 +1,14 @@
-# **Convergence**[^1]
+
+
+<center><h1><b>Convergence</h1></b></center>
 
 > TLDR; A curious mixture of minds, likely only possible due to modern
 > communications systems, appears to be converging at this festival. The
 > various flavors of intellect on display seem ripe for the synthesis of
 > novel frames by which to view the complex nature of challenges facing
-> the 21st century.[^2] Feb. 5th 2022
+> the 21st century.[^1] Feb. 5th 2022
 
-   When automated disinformation began 10 years ago in the U.S., as a society, we lacked the shared experiences to inform the language necessary to adequately communicate the n-dimensional consequences made possible by the ever advancing evolution of networking technologies on social discourse. We were already 10 years into a now antiquated model of narrative control that, at the time, seemed absurd to articulate any aspect of. By then we were already 15 years into the societal evolution of “solving for short-term profit above all else”, supercharging an imbalance of influence which laid the foundation for the failure of institutions to properly administer society for its long-term continuity.
+   When automated disinformation began ten years ago in the U.S., as a society, we lacked the shared experiences to inform the language necessary to adequately communicate the n-dimensional consequences made possible by the ever advancing evolution of networking technologies on social discourse. We were already 10 years into a now antiquated model of narrative control that, at the time, seemed absurd to articulate any aspect of. By then we were already 25 years into the societal evolution of “solving for short-term profit above all else”, supercharging an imbalance of influence which laid the foundation for the failure of institutions to properly administer society for its long-term continuity.[^2]
 
    For years we said we needed to educate the children, and in its place we gave them the drama of war. Instead of using the overflowing abundance of the post-WW2 order to continually invest in the betterment of our people, we privatized punishment and education. We broke up the U.S., and sold it in pieces like the early days after the fall of the Berlin Wall. At each step, we sold our future in the name of immediate riches. 
 
@@ -20,7 +22,7 @@
 
    At their core, our conflicts are resource conflicts. I imagine the audience reading this doesn’t need a primer on projected water shortages, crop failures due to temperature variation, the reduction of oxygen holding capacity of water in higher temperatures, the lack of insects to turn and fertilize the soil, peaking of phosphorous production in the next decade, mass migrations from coasts amid a society primed by two previous decades of tribal and grievance identity amplification, or the three to twenty-two other things each reader is a little surprised to not see in the list. Given current projections show a convergence of resource constraints, it is only reasonable to assume a convergence of conflicts.
 
-But there is hope.
+<center><h2><b>But there is hope.</h2></b></center>
 
    Since many of you have dived into prediction markets and threatcasting, you have inadvertently acquired some of the skills of intelligence analysts. Bayesian analysis? Updating your priors? Reporting of your conclusions with confidence intervals and assumptions clearly stated? Anonymous critiquing of each other’s work? Your refusal to engage in emotional appeals and willingness to acknowledge when you're wrong is just the serendipitous cherry on top. 
 
@@ -28,27 +30,25 @@ But there is hope.
 
    We are one of the few examples of cooperation amongst competing ideologies. In a world struggling to cope with the onslaught of information engineered to amplify our tribal tendencies, the preciousness and power of this gift cannot be understated. Given that collectively you have technical talent, institutional connections, a shared interest in influence techniques, and a healthy fear of grifters; you are the hope you have been waiting for. You are the seeds of the Second Renaissance. 
 
-*waits for laughter to subside*
+<center><h3><i>waits for laughter to subside</h3></i></center>
 
-It took, at least, tens of millions to bring you all to this point. No one is coming because all of you are the investment. You are the people in the past who chose to adopt the prototype behaviors and cognitive frameworks necessary to bootstrap the activation energy needed to make reality the miracles tucked away in research papers and lab benches around the world. You exist in the corner of the world with the resources and stability to make it happen. There is no main character in this story, no chosen few, only those who choose. 
+   It took, at least, tens of millions to bring you all to this point. No one is coming because all of you are the investment. You are the people in the past who chose to adopt the prototype behaviors and cognitive frameworks necessary to bootstrap the activation energy needed to make reality the miracles tucked away in research papers and lab benches around the world. You exist in the corner of the world with the resources and stability to make it happen. There is no main character in this story, no chosen few, only those who choose. 
 
  
 
 Anon, the question you should ask yourself now is, 
-# **do u fuck?**
+<center><h1><b>do u fuck?</h1></b></center>
 
 
 
 
-
-
-## Notes
+# Notes
 
 [^1]:
-     The first half of this document was written early February of 2022 with the goal of applying for funding to support communities such as this that I feel are instrumental in sparking an explosive growth in our fabrication abilities with the goal of bringing the promise of metamaterials into the world.
+     My initial assessment of the anti-molochian egregore known as {}.
 
 [^2]:
-     This quote was my initial assessment of the anti-molochian egregore known as ****. 
+      The first half of this document was written early February of 2022 with the goal of applying for funding to support communities such as this that I feel are instrumental in sparking an explosive growth in our fabrication abilities with the goal of bringing the promise of metamaterials into the world.
 
 [^3]:
      My observation from VC is that there exists some abstract n-dimensional construct, like a rotating tesseract, which represents our shared characteristics. We are all pieces of this tesseract, calling out our individual observations of the higher-dimensional metacrisis through which we are passing. If you have a rival in these parts, it is likely they share the most faces of the ‘tesseract’ with you. Truly a beautiful and constructive use of psychographic targeting.My observation from VC is that there exists some abstract n-dimensional construct, like a rotating tesseract, which represents our shared characteristics. We are all pieces of this tesseract, calling out our individual observations of the higher-dimensional metacrisis through which we are passing. If you have a rival in these parts, it is likely they share the most faces of the ‘tesseract’ with you. Truly a beautiful and constructive use of psychographic targeting
