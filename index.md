@@ -66,7 +66,7 @@ Anon, the question you should ask yourself now is,
 
 [^2]:
       The first half of this document was written early February of 2022 with the goal of applying for funding to support communities such as this that I feel are instrumental in sparking an explosive growth in our fabrication abilities with the goal of bringing the promise of metamaterials into the world.
-[update: I applied for a mix of anti-tribal conflict and emergence related funds so this may be a technical lie while spiritually true)
+[update: I applied for a mix of anti-tribal conflict and emergence related funds so this may be a technical lie while spiritually true]
 [^3]:
      My observation from VC is that there exists some abstract n-dimensional construct, like a rotating tesseract, which represents our shared characteristics. We are all pieces of this tesseract, calling out our individual observations of the higher-dimensional metacrisis through which we are passing. If you have a rival in these parts, it is likely they share the most faces of the ‘tesseract’ with you. Truly a beautiful and constructive use of psychographic targeting.My observation from VC is that there exists some abstract n-dimensional construct, like a rotating tesseract, which represents our shared characteristics. We are all pieces of this tesseract, calling out our individual observations of the higher-dimensional metacrisis through which we are passing. If you have a rival in these parts, it is likely they share the most faces of the ‘tesseract’ with you. Truly a beautiful and constructive use of psychographic targeting
 
