@@ -2,7 +2,7 @@
 
 Broke: Hey guys, let's make yet another ideology
 that concerns itself with the distribution of resources,
-the means of production and everyone's proper place in society. We'll
+the means of production, and everyone's proper place in society. We'll
 totally get it right this time. (Given the level of 
 bullshit in society and the opportunity it affords
 for those concerned with power, this notion is kind 
