@@ -21,4 +21,4 @@ If you can appreciate that intelligence is not a protective factor and by extens
 \
 So when I say n-dimensional, it isnt to sound cool. I use the word because ever evolving planes of capability shifting in relation to advancements of technology resulting from social norms selecting for the investment of modern and future communications capability is unknown territory in the human experience. We are only a few years into this technology being a socially accepted concept and in a few more we may no longer notice.
 
-# [<-](index.md)
+# [<-](../index.md)
