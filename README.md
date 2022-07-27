@@ -1,4 +1,4 @@
-# Convergence
+# Convergence 0.1
 
 Broke: Hey guys, let's make yet another ideology
 that concerns itself with the distribution of resources,
